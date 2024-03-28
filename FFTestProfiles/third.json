@@ -1,0 +1,213 @@
+{
+    "basicInfo": {
+      "accountId": "10000001",
+      "accountPrefers": {},
+      "accountType": 1,
+      "badgeCnt": 177,
+      "badgeId": 1001000070,
+      "bannerId": 901000276,
+      "createAt": "1512344243",
+      "csMaxRank": 219,
+      "csRank": 219,
+      "csRankingPoints": 82,
+      "exp": 1046930,
+      "externalIconInfo": {},
+      "hasElitePass": true,
+      "headPic": 902000306,
+      "lastLoginAt": "1711601171",
+      "level": 61,
+      "liked": 513197,
+      "maxRank": 216,
+      "nickname": "Harold",
+      "pinId": 910040001,
+      "rank": 216,
+      "rankingPoints": 2870,
+      "region": "SG",
+      "releaseVersion": "OB43",
+      "role": 64,
+      "seasonId": 38,
+      "showBrRank": true,
+      "showCsRank": true,
+      "showRank": true,
+      "title": 904090026,
+      "weaponSkinShows": [
+        907104027,
+        912042002,
+        914042001
+      ]
+    },
+    "captainBasicInfo": {
+      "accountId": "310531180",
+      "accountPrefers": {},
+      "accountType": 1,
+      "badgeCnt": 89,
+      "badgeId": 1001000070,
+      "bannerId": 901027028,
+      "createAt": "1531812821",
+      "csMaxRank": 222,
+      "csRank": 222,
+      "csRankingPoints": 190,
+      "exp": 1730409,
+      "externalIconInfo": {},
+      "gameBagShow": 904041008,
+      "hasElitePass": true,
+      "headPic": 902027017,
+      "lastLoginAt": "1711613125",
+      "level": 65,
+      "liked": 13922,
+      "maxRank": 216,
+      "nickname": "GMAndrewYeti",
+      "pinId": 910000010,
+      "rank": 216,
+      "rankingPoints": 2783,
+      "region": "SG",
+      "releaseVersion": "OB43",
+      "role": 64,
+      "seasonId": 38,
+      "showBrRank": true,
+      "showCsRank": true,
+      "showRank": true,
+      "title": 904190038,
+      "weaponSkinShows": [
+        907104146,
+        912042002,
+        914000003
+      ]
+    },
+    "clanBasicInfo": {
+      "capacity": 50,
+      "captainId": "310531180",
+      "clanId": "1027439077",
+      "clanLevel": 6,
+      "clanName": "Cpt.BOOYAH",
+      "memberNum": 49
+    },
+    "creditScoreInfo": {
+      "creditScore": 100,
+      "rewardState": "RewardState_UNCLAIMED"
+    },
+    "equippedAch": [
+      {
+        "achId": 32006,
+        "level": 2
+      },
+      {
+        "achId": 11004,
+        "level": 3
+      },
+      {
+        "achId": 11006,
+        "level": 3
+      },
+      {
+        "achId": 11006,
+        "level": 3
+      }
+    ],
+    "historyEpInfo": [
+      {
+        "badgeCnt": 231,
+        "bpIcon": "UI_BP_Emoji_Asura",
+        "epBadge": 1001000069,
+        "epEventId": 69,
+        "eventName": "T_43_H_BP69_NAME",
+        "maxLevel": 100,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 302,
+        "bpIcon": "UI_BP_Emoji_Electri",
+        "epBadge": 1001000068,
+        "epEventId": 68,
+        "eventName": "T_42_H_BP68_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 389,
+        "bpIcon": "UI_BP_Emoji_Watcher",
+        "epBadge": 1001000067,
+        "epEventId": 67,
+        "eventName": "T_42_H_BP67_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 389,
+        "bpIcon": "UI_BP_Emoji_Puppets",
+        "epBadge": 1001000066,
+        "epEventId": 66,
+        "eventName": "T_42_H_BP66_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 309,
+        "bpIcon": "UI_BP_Emoji_Fishing",
+        "epBadge": 1001000065,
+        "epEventId": 65,
+        "eventName": "T_41_JC_BP65_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 296,
+        "bpIcon": "UI_BP_Emoji_Slime",
+        "epBadge": 1001000064,
+        "epEventId": 64,
+        "eventName": "T_41_JC_BP64_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 349,
+        "bpIcon": "UI_BP_Emoji_Sonia",
+        "epBadge": 1001000063,
+        "epEventId": 63,
+        "eventName": "T_40_JC_BP63_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 393,
+        "bpIcon": "UI_BP_Emoji_Trap",
+        "epBadge": 1001000062,
+        "epEventId": 62,
+        "eventName": "T_40_JC_BP62_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 302,
+        "bpIcon": "UI_BP_Emoji_Comic",
+        "epBadge": 1001000061,
+        "epEventId": 61,
+        "eventName": "T_39_FH_BP60_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 467,
+        "bpIcon": "UI_BP_Emoji_Rollerskating",
+        "epBadge": 1001000060,
+        "epEventId": 60,
+        "eventName": "T_39_FH_BP61_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      }
+    ],
+    "petInfo": {
+      "exp": 6000,
+      "id": 1300000091,
+      "isSelected": true,
+      "level": 7,
+      "name": "Luffy",
+      "selectedSkillId": 1315000018,
+      "skinId": 1310000100
+    },
+    "socialInfo": {
+      "accountId": "10000001",
+      "language": "Language_EN",
+      "signature": "tiktok @ff_haribro"
+    }
+  }
