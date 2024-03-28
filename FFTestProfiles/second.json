@@ -1,0 +1,209 @@
+{
+    "basicInfo": {
+      "accountId": "2249984221",
+      "accountPrefers": {
+        "brPregameShowChoices": [
+          1
+        ]
+      },
+      "accountType": 1,
+      "badgeCnt": 150,
+      "badgeId": 1001000070,
+      "bannerId": 901027028,
+      "createAt": "1596709930",
+      "csMaxRank": 222,
+      "csRank": 222,
+      "csRankingPoints": 274,
+      "exp": 3358095,
+      "externalIconInfo": {},
+      "hasElitePass": true,
+      "headPic": 902027017,
+      "lastLoginAt": "1711598541",
+      "level": 71,
+      "liked": 22275,
+      "maxRank": 221,
+      "nickname": "\ua731\u028f\u0274\u2551S\u1d00\u0274\u1d1b\u1d00\u30e4\u3164\ubaa8",
+      "pinId": 910002801,
+      "rank": 221,
+      "rankingPoints": 4199,
+      "region": "SG",
+      "releaseVersion": "OB43",
+      "seasonId": 38,
+      "showBrRank": true,
+      "showCsRank": true,
+      "showRank": true,
+      "title": 904090022,
+      "weaponSkinShows": [
+        907192414,
+        912041001
+      ]
+    },
+    "captainBasicInfo": {
+      "accountId": "409241272",
+      "accountPrefers": {},
+      "accountType": 1,
+      "badgeCnt": 194,
+      "badgeId": 1001000070,
+      "bannerId": 901000046,
+      "createAt": "1537779456",
+      "csMaxRank": 222,
+      "csPeakRankPos": 582,
+      "csRank": 222,
+      "csRankingPoints": 333,
+      "exp": 5749014,
+      "externalIconInfo": {},
+      "hasElitePass": true,
+      "headPic": 902000093,
+      "lastLoginAt": "1711567441",
+      "level": 77,
+      "liked": 31780,
+      "maxRank": 221,
+      "nickname": "\ua731\u028f\u0274\u2551s\u1d1cs\u026a\u30e4\u1dbb\u1d49\u02b3",
+      "pinId": 910000005,
+      "rank": 221,
+      "rankingPoints": 4547,
+      "region": "SG",
+      "releaseVersion": "OB43",
+      "seasonId": 38,
+      "showBrRank": true,
+      "showCsRank": true,
+      "showRank": true,
+      "title": 904090020,
+      "weaponSkinShows": [
+        907193004,
+        912042001,
+        914042001
+      ]
+    },
+    "clanBasicInfo": {
+      "capacity": 50,
+      "captainId": "409241272",
+      "clanId": "1035734886",
+      "clanLevel": 6,
+      "clanName": "\u25e4\uff33\uff39\uff2e\uff24\uff29\uff23\uff21\uff34\uff25\u25e2",
+      "memberNum": 43
+    },
+    "creditScoreInfo": {
+      "creditScore": 100
+    },
+    "equippedAch": [
+      {
+        "achId": 11013,
+        "level": 3
+      },
+      {
+        "achId": 33001,
+        "level": 3
+      },
+      {
+        "achId": 33003,
+        "level": 3
+      },
+      {
+        "achId": 11012,
+        "level": 3
+      }
+    ],
+    "historyEpInfo": [
+      {
+        "badgeCnt": 121,
+        "bpIcon": "UI_BP_Emoji_Asura",
+        "epBadge": 1001000069,
+        "epEventId": 69,
+        "eventName": "T_43_H_BP69_NAME",
+        "maxLevel": 100,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 153,
+        "bpIcon": "UI_BP_Emoji_Electri",
+        "epBadge": 1001000068,
+        "epEventId": 68,
+        "eventName": "T_42_H_BP68_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 155,
+        "bpIcon": "UI_BP_Emoji_Watcher",
+        "epBadge": 1001000067,
+        "epEventId": 67,
+        "eventName": "T_42_H_BP67_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 136,
+        "bpIcon": "UI_BP_Emoji_Puppets",
+        "epBadge": 1001000066,
+        "epEventId": 66,
+        "eventName": "T_42_H_BP66_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 157,
+        "bpIcon": "UI_BP_Emoji_Fishing",
+        "epBadge": 1001000065,
+        "epEventId": 65,
+        "eventName": "T_41_JC_BP65_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 159,
+        "bpIcon": "UI_BP_Emoji_Slime",
+        "epBadge": 1001000064,
+        "epEventId": 64,
+        "eventName": "T_41_JC_BP64_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 158,
+        "bpIcon": "UI_BP_Emoji_Sonia",
+        "epBadge": 1001000063,
+        "epEventId": 63,
+        "eventName": "T_40_JC_BP63_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 163,
+        "bpIcon": "UI_BP_Emoji_Trap",
+        "epBadge": 1001000062,
+        "epEventId": 62,
+        "eventName": "T_40_JC_BP62_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 152,
+        "bpIcon": "UI_BP_Emoji_Comic",
+        "epBadge": 1001000061,
+        "epEventId": 61,
+        "eventName": "T_39_FH_BP60_NAME",
+        "maxLevel": 150,
+        "ownedPass": true
+      },
+      {
+        "badgeCnt": 119,
+        "bpIcon": "UI_BP_Emoji_Rollerskating",
+        "epBadge": 1001000060,
+        "epEventId": 60,
+        "eventName": "T_39_FH_BP61_NAME",
+        "maxLevel": 150
+      }
+    ],
+    "petInfo": {
+      "exp": 6000,
+      "id": 1300000091,
+      "isSelected": true,
+      "level": 7,
+      "selectedSkillId": 1315000008,
+      "skinId": 1310000100
+    },
+    "socialInfo": {
+      "accountId": "2249984221"
+    }
+  }
