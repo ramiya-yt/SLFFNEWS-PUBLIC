@@ -1,5 +1,14 @@
-var GOLD_roles = new Set(["10000001", "520946669", "1341742864"]);
+var GOLD_roles = [
+            ["520946669", "2030-01"], //RamiYa
+            ["1341742864", "2030-01"] //Astute
+        ];
 
-var BLUE_roles = new Set(["601712727", "0"]);
+var BLUE_roles = [
+            ["601712727", "2030-01"], //Preview
+            ["0", "2024-07"]
+        ];
 
-var GREEN_roles = new Set(["278264045", "1804683784"]);
+var GREEN_roles = [
+            ["278264045", "2030-01"], //Preview
+            ["1804683784", "2024-05"] //Flame
+        ];
